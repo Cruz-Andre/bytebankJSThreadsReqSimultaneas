@@ -30,4 +30,11 @@
 - Conectar com a API de cotação de moedas chamada Awesome API. :white_check_mark:
 
 ## Aula 2
+- Executar uma função a cada determinado tempo através do setInterval; :white_check_mark:
+- Identificar o modelo de concorrência; :white_check_mark:
+- Compreender a execução do código JavaScript; :white_check_mark:
+- Distinguir os papéis do Event Loop, Call Stack e Task Queue; :white_check_mark:
+- Capturar datas e horas com o objeto Date. :white_check_mark:
+
+## Aula 3
 - 
