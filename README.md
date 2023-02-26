@@ -24,4 +24,10 @@
 <hr>
 
 ## Aula 1
+- Instalar a biblioteca Chart.js via CDN; :white_check_mark:
+- Implementar um gráfico com os métodos disponíveis na biblioteca Chart.js; :white_check_mark:
+- Consumir APIs de forma assíncrona com a FetchAPI; :white_check_mark:
+- Conectar com a API de cotação de moedas chamada Awesome API. :white_check_mark:
+
+## Aula 2
 - 
