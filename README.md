@@ -44,4 +44,11 @@
 - Exportar e importar arquivos JavaScript. :white_check_mark:
 
 ## Aula 4
+- Criar novas threads; :white_check_mark:
+- Definir web workers; :white_check_mark:
+- Enviar mensagem entre threads com postMessage(); :white_check_mark:
+- Detectar o envio de mensagens com o addEventListener(); :white_check_mark:
+- Identificar o que é o modelo de paralelismo e as diferenças entre single thread e multithread. :white_check_mark:
+
+## Aula 5
 - 
