@@ -37,4 +37,11 @@
 - Capturar datas e horas com o objeto Date. :white_check_mark:
 
 ## Aula 3
+- Adicionar itens a um array com o método push(); :white_check_mark:
+- Percorrer um array com o método forEach(); :white_check_mark:
+- Atualizar um gráfico da biblioteca Chart.js com o método update(); :white_check_mark:
+- Manipular o DOM com innerHTML, createElement() e appendChild(); :white_check_mark:
+- Exportar e importar arquivos JavaScript. :white_check_mark:
+
+## Aula 4
 - 
