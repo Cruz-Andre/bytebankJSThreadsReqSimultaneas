@@ -51,4 +51,8 @@
 - Identificar o que é o modelo de paralelismo e as diferenças entre single thread e multithread. :white_check_mark:
 
 ## Aula 5
-- 
+- Construir mais de um gráfico com a biblioteca Chart.js; :white_check_mark:
+- Criar novas threads; :white_check_mark:
+- Capturar vários elementos de uma vez; :white_check_mark:
+- Implementar condicionais com o operador condicional ternário (condição ? expressão1 : expressão2); :white_check_mark:
+- Fazer deploys do projeto. :white_check_mark:
